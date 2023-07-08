@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **Chat GPT Prompts for Queries**
 
-- 👯 I’m looking to collaborate on **SQL and Python Projects**
-
-- 🤝 I’m looking for help with **Simplifying My SQL CTE's**
-
 - 💬 Ask me about **My Professional Background and my SQL, Python, and Tableau Projects. Happy to Share My Resume!**
 
 <h3 align="left">Connect with me:</h3>
