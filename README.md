@@ -2,7 +2,7 @@
 <h3 align="center">A Program Manager and Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o3cDQ4djVpc2htYzBlemtidWx4ZjRzaG91emRpOHp4MDE3Ym40bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEYFeDAs2Rh5qdo39Bu/giphy.gif">
 
-- 🌱 I’m currently learning **Chat GPT Prompts for Queries**
+- 🌱 I’m currently learning **HTML and CSS**
 
 - 💬 Ask me about **My Professional Background and my SQL, Python, and Tableau Projects. Happy to Share My Resume!**
 
